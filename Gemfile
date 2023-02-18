@@ -19,6 +19,10 @@ gem 'puma', '~> 4.1'
 # Auth
 gem 'devise_token_auth', '~> 1.1.4'
 
+# CORS
+gem 'rack-cors', '~> 1.1.1'
+
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
