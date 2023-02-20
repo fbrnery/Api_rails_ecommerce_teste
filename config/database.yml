@@ -10,7 +10,7 @@ development:
   <<: *default
   database: ecommerce_api_development
 
-  
+test:
   <<: *default
   database: ecommerce_api_test
 
